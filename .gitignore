@@ -1,2 +1,7 @@
 /.github/
 /node_modules/
+/yarn.lock
+/.idea/
+/.deploy_git/
+/package-lock.json
+/public/
